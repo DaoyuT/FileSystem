@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1318089907 source:d:\keshe\tdy\main.c
+	"tdy.h"
+
+1318089545 d:\keshe\tdy\tdy.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1319116905 source:d:\tdy\main.c
+	"tdy.h"
+
+1318730869 d:\tdy\tdy.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
